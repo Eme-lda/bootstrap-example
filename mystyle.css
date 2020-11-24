@@ -1,0 +1,58 @@
+body{
+	/*background-color: skyblue;*/
+	background-image: url("family.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%; 
+ 
+}
+h1{
+	color: darkblue;
+	font-family: all;
+	text-align: center;
+}
+a{
+	color: white;
+}
+p{
+	color: darkblue;
+	text-decoration-color: white;
+	text-shadow: transparent;
+	text-decoration-style: wavy;
+}
+#flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.flex-item {
+    border: 2px solid blue;
+	border-radius: 20px;
+	margin: 40px 50px 40px 50px;
+	border-radius: 20px;
+    padding: 45px;
+    text-align: center;
+    width: 400px;
+    align-content: center;
+}
+#flex-container-two {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.flex-items {
+    border: 2px solid blue;
+	border-radius: 20px;
+	margin: 40px 50px 40px 50px;
+	border-radius: 20px;
+    padding: 45px;
+    text-align: center;
+    width: 400px;
+    align-content: center;
+    background-image: 
+}
+.head{
+	border: 1px solid black;
+	background-image: url("fam.png");
+}
